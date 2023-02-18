@@ -1,1 +1,1 @@
-# landing_page
+Hello everyone! Back at it again with another project, courtesy of the Odin Project. With this one, I am constructing a simple home page that possesses a basic, yet pleasing-to-the-eye design. Hope anyone who sees this enjoys!
